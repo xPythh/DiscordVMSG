@@ -1,6 +1,6 @@
 // Copy past this code inside Browser Console, also working on Desktop Application by running this code in the console.
 // On desktop, you will need to run the script Every time you restart discord.
-// For any bug / issues, Please create a Pulle Request
+// For any bug / issues, Please create a Pull Request
 // You can also find the code here => https://greasyfork.org/en/scripts/424962-discordvmsg
     
     var checkIfReadyInterval;
